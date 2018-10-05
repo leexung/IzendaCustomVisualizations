@@ -6,6 +6,7 @@ const Webpack = require('webpack');
 const Path = require('path');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const ExtractSASS = new ExtractTextPlugin('styles/bundle.css');
+const dest = Path.join(__dirname, '../dist');
 
 module.exports = merge(common, {
   mode: 'production',
