@@ -8,9 +8,9 @@ import threeDColumnChart from './3d_column';
 import threeDScatterChart from './3d_scatter';
 import './columnnospace';
 
-import './custom_base_charts';
-import './custom_base_gauges';
-import './custom_base_maps';
+//import './custom_base_charts';
+//import './custom_base_gauges';
+//import './custom_base_maps';
 
 // Init the configuration of Izenda
 //IzendaSynergy.config(config);
