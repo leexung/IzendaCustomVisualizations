@@ -1,7 +1,7 @@
 import './styles/index.scss';
 
-import IzendaSynergy from 'IzendaSynergy';
-import config from './config';
+//import IzendaSynergy from 'IzendaSynergy';
+//import config from './config';
 
 import './3dcommon';
 import threeDColumnChart from './3d_column';
@@ -13,7 +13,7 @@ import './custom_base_gauges';
 import './custom_base_maps';
 
 // Init the configuration of Izenda
-IzendaSynergy.config(config);
+//IzendaSynergy.config(config);
 
 // Render whole Izenda UI into DOM
-IzendaSynergy.render(document.getElementById('izenda-root'));
+//IzendaSynergy.render(document.getElementById('izenda-root'));
