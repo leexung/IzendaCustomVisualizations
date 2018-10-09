@@ -1,4 +1,4 @@
-import './styles/index.scss';
+//import './styles/index.scss';
 
 //import IzendaSynergy from 'IzendaSynergy';
 //import config from './config';
